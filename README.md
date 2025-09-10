@@ -60,6 +60,16 @@ You can explore the **Power BI report** here:
 ➡️ [Download Bank Risk Dashboard (.pbix)](Bank-Risk-Analysis-Dashboard/Report/Risk_Analysis_Dashboard.pbix)
 
 ---
+## 📁 Project Structure
+- `Bank_Risk_analysis.ipynb` – Python notebook with integrated data, cleaning, Metric calculations, Correlations and analysis  
+- `Excel_CSV_Tables/` – Processed data exported for dashboard building  
+- `Images/Portafolio_project.pbix` – Power BI Dashboard - report file
+- Insights from Data 
+  
+📘 See the full analysis steps in this notebook:  
+👉 [View the Jupyter notebook](Bank-Risk-Analysis-Dashboard/Notebooks/Bank_Risk_Analysis.ipynb)
+
+---
 
 ## 📈 Insights from Data  
 - Most clients maintain a **Loan-to-Deposit Ratio < 2**, though a few outliers (>20) suggest aggressive borrowing.  
