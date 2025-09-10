@@ -38,21 +38,23 @@ The goal is to enable banking institutions to minimize the risk of financial los
 ### Page 1 – Client Demographics & Portfolio Overview  
 - Distribution of clients by **Gender, Nacionality & Loyalty distribution**   
 - Key metrics: Averages of Estimated Income, Savings, Deposits and Loans
-![Dashboard Sample](images/dashboard_sample.png)
+![Dashboard 1](Bank-Risk-Analysis-Dashboard/Images/Portafolio overview.jpg)
 
 ### Page 2 – Risk Analysis and Correlations  
 - Breakdown of financial products across **Risk Level**  
 - Comparison of income, deposits, loans, savings.
 - Correlation of numerical variables 
-![Dashboard Sample](images/dashboard_sample.png)
+![Dashboard 2](Bank-Risk-Analysis-Dashboard/Images/Risk Analysis Correlationjpg.jpg)
 
 ### Page 3 – Creditworthiness Evaluation  
 - KPIs: Debt-to-Income Ratio, Debt-to-Asset Ratio, Loan Ratios  
 - **Approval / Review / Rejection** classification model  
-- Client segmentation with filters (Age Group, Loyalty Tier)  
+- Client segmentation with filters (Age Group, Loyalty Tier)
+![Dashboard 3](Bank-Risk-Analysis-Dashboard/Images/Creditworthiness Evaluation.jpg) 
 
-📸 Example visualizations (from `/images/`):  
-![Dashboard Sample](images/dashboard_sample.png)  
+You can explore the **Power BI report** here:  
+
+➡️ [Download Bank Risk Dashboard (.pbix)](Bank-Risk-Analysis-Dashboard/Report/Risk_Analysis_Dashboard.pbix)  
 
 ---
 
