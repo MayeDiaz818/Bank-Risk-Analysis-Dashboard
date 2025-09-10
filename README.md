@@ -43,7 +43,8 @@ The goal is to enable banking institutions to minimize the risk of financial los
 ### Page 2 – Risk Analysis and Correlations  
 - Breakdown of financial products across **Risk Level**  
 - Comparison of income, deposits, loans, savings.
-- Correlation of numerical variables 
+- Correlation of numerical variables
+  
 ![Dashboard 2](Bank-Risk-Analysis-Dashboard/Images/Risk Analysis Correlationjpg.jpg)
 
 ### Page 3 – Creditworthiness Evaluation  
