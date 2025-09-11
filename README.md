@@ -64,18 +64,21 @@ You can explore the **Power BI report** here:
 - `Bank_Risk_analysis.ipynb` – Python notebook with integrated data, cleaning, Metric calculations, Correlations and analysis  
 - `Excel_CSV_Tables/` – Processed data exported for dashboard building  
 - `Images/Portafolio_project.pbix` – Power BI Dashboard - report file
-- Insights from Data 
+- `Insights_from_Data` - Pdf document summarizing the key findings from the analysis. 
   
 📘 See the full analysis steps in this notebook:  
 👉 [View the Jupyter notebook](Bank-Risk-Analysis-Dashboard/Notebooks/Bank_Risk_Analysis.ipynb)
 
 ---
 
-## 📈 Insights from Data  
-- Most clients maintain a **Loan-to-Deposit Ratio < 2**, though a few outliers (>20) suggest aggressive borrowing.  
-- Average **Loan-to-Income Ratio ~4.7**, indicating manageable leverage for most clients.  
-- **Debt-to-Asset Ratio** shows extreme outliers (up to 544), highlighting over-leveraged customers.  
-- The dashboard enables **credit approval decisions** based on customer profiles.  
+## 📈 Insights from Data & conclusion
+Completing this project has been a significant personal achievement. 
+Designing meaningful **KPIs for bank risk analysis**, integrating Python for data preparation, and building an **interactive Power BI dashboard** gave me hands-on experience with real financial data challenges.
+This work has sharpened my **analytical thinking**, strengthened my technical skills in both **Python and Power BI**, and deepened my **understanding of risk evaluation** in the banking industry. It represents a clear step forward in my professional growth as a **data analyst** and demonstrates the value I can bring to future financial analytics projects.
+
+
+📘 See full analysis in this report:  
+👉 [View the full Report ](Bank-Risk-Analysis-Dashboard
 
 ---
 
