@@ -59,7 +59,8 @@ You can explore the **Power BI report** here:
 
 ➡️ [Download Bank Risk Dashboard(.pbix)](Bank-Risk-Analysis-Dashboard/Report/Risk_Analysis_Dashboard.pbix)
 
-To view it, download the file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+You can download the file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/). 
+
 ---
 ## 📁 Project Structure
 - `Bank_Risk_analysis.ipynb` – Python notebook with integrated data, cleaning, Metric calculations, Correlations and analysis  
