@@ -36,7 +36,7 @@ The goal is to enable banking institutions to minimize the risk of financial los
 ## 📊 Dashboard Overview   
 
 ### Page 1 – Client Demographics & Portfolio Overview  
-- Distribution of clients by **Gender, Nacionality & Loyalty distribution**   
+- Distribution of clients by **Gender, Nationality & Loyalty distribution**   
 - Key metrics: Averages of Estimated Income, Savings, Deposits and Loans
 
 ![Dashboard 1](Bank-Risk-Analysis-Dashboard/Images/Portafolio_overview.jpg) 
