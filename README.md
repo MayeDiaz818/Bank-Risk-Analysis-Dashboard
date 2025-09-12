@@ -78,7 +78,7 @@ This work has sharpened my **analytical thinking**, strengthened my technical sk
 
 
 📘 See full analysis in this report:  
-👉 [View the full Report ](Bank-Risk-Analysis-Dashboard
+👉 [View the full Report ](Bank-Risk-Analysis-Dashboard/Report/Risk_Analysis_Report.pdf)
 
 ---
 
