@@ -84,6 +84,6 @@ This work has sharpened my **analytical thinking**, strengthened my technical sk
 
 ## 🙏 Acknowledgments
 
-This project was inspired by [Satyajit Pattnaik](https://github.com/usuarioOriginal/proyecto-original).  
+This repository is dedicated to my learning journey through the Udemy course: - Data Analytics Mastery –  taught by [Dr. Satyajit Pattnaik](https://www.udemy.com/user/zep-research/)).  
 Although I used the same dataset, I applied different metrics, explored alternative KPIs, and arrived at new insights and a distinct dashboard.
 Thank you for inspiring the next generation of data analysts through your work.
