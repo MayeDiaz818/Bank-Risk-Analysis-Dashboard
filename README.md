@@ -82,9 +82,8 @@ This work has sharpened my **analytical thinking**, strengthened my technical sk
 
 ---
 
-## 🚀 How to Run the Project  
+## 🙏 Acknowledgments
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/Bank-Risk-Analysis-Dashboard.git
-   cd Bank-Risk-Analysis-Dashboard
+This project was inspired by [Satyajit Pattnaik](https://github.com/usuarioOriginal/proyecto-original).  
+Although I used the same dataset, I applied different metrics, explored alternative KPIs, and arrived at new insights and a distinct dashboard.
+Thank you for inspiring the next generation of data analysts through your work.
