@@ -58,6 +58,7 @@ The goal is to enable banking institutions to minimize the risk of financial los
 You can explore the **Power BI report** here:  
 
 ➡️ [Download Bank Risk Dashboard(.pbix)](Bank-Risk-Analysis-Dashboard/Report/Risk_Analysis_Dashboard.pbix)
+
 To view it, download the file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 ---
 ## 📁 Project Structure
